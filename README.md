@@ -1,2 +1,2 @@
 # lesson_1
-Our 1st repository
+Наш 1ый репозиторий
